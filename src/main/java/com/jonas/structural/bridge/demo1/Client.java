@@ -1,8 +1,8 @@
-package com.jonas.structural.bridge;
+package com.jonas.structural.bridge.demo1;
 
-import com.jonas.structural.bridge.abstraction.Image;
-import com.jonas.structural.bridge.abstraction.PNGImage;
-import com.jonas.structural.bridge.implementor.WindowsImp;
+import com.jonas.structural.bridge.demo1.abstraction.Image;
+import com.jonas.structural.bridge.demo1.abstraction.PNGImage;
+import com.jonas.structural.bridge.demo1.implementation.WindowsImp;
 
 /**
  * <p>

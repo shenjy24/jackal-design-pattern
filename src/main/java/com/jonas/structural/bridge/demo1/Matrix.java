@@ -1,4 +1,4 @@
-package com.jonas.structural.bridge;
+package com.jonas.structural.bridge.demo1;
 
 /**
  * <p>

@@ -1,6 +1,6 @@
-package com.jonas.structural.bridge.abstraction;
+package com.jonas.structural.bridge.demo1.abstraction;
 
-import com.jonas.structural.bridge.implementor.ImageImp;
+import com.jonas.structural.bridge.demo1.implementation.ImageImp;
 
 /**
  * <p>

@@ -1,6 +1,6 @@
-package com.jonas.structural.bridge.implementor;
+package com.jonas.structural.bridge.demo1.implementation;
 
-import com.jonas.structural.bridge.Matrix;
+import com.jonas.structural.bridge.demo1.Matrix;
 
 /**
  * <p>

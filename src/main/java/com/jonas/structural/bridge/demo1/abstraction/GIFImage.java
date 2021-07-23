@@ -1,6 +1,6 @@
-package com.jonas.structural.bridge.abstraction;
+package com.jonas.structural.bridge.demo1.abstraction;
 
-import com.jonas.structural.bridge.Matrix;
+import com.jonas.structural.bridge.demo1.Matrix;
 
 /**
  * <p>
