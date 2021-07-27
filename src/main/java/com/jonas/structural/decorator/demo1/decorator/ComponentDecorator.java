@@ -1,6 +1,6 @@
-package com.jonas.structural.decorator.decorator;
+package com.jonas.structural.decorator.demo1.decorator;
 
-import com.jonas.structural.decorator.component.Component;
+import com.jonas.structural.decorator.demo1.component.Component;
 
 /**
  * <p>

@@ -1,4 +1,4 @@
-package com.jonas.structural.decorator.component;
+package com.jonas.structural.decorator.demo1.component;
 
 /**
  * <p>

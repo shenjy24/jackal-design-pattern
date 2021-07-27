@@ -1,9 +1,9 @@
-package com.jonas.structural.decorator;
+package com.jonas.structural.decorator.demo1;
 
-import com.jonas.structural.decorator.component.Component;
-import com.jonas.structural.decorator.component.Window;
-import com.jonas.structural.decorator.decorator.BlackBorderDecorator;
-import com.jonas.structural.decorator.decorator.ScrollBarDecorator;
+import com.jonas.structural.decorator.demo1.component.Component;
+import com.jonas.structural.decorator.demo1.component.Window;
+import com.jonas.structural.decorator.demo1.decorator.BlackBorderDecorator;
+import com.jonas.structural.decorator.demo1.decorator.ScrollBarDecorator;
 
 /**
  * <p>
