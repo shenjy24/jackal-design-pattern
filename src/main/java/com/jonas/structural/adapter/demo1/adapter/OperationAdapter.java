@@ -1,7 +1,7 @@
-package com.jonas.structural.adapter.adapter;
+package com.jonas.structural.adapter.demo1.adapter;
 
-import com.jonas.structural.adapter.adaptee.BinarySearch;
-import com.jonas.structural.adapter.adaptee.QuickSort;
+import com.jonas.structural.adapter.demo1.adaptee.BinarySearch;
+import com.jonas.structural.adapter.demo1.adaptee.QuickSort;
 
 /**
  * 操作适配器：适配器

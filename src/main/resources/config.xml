@@ -1,4 +1,4 @@
 <?xml version="1.0" ?>
 <config>
-    <className>com.jonas.structural.adapter.adapter.OperationAdapter</className>
+    <className>com.jonas.structural.adapter.demo1.adapter.OperationAdapter</className>
 </config>

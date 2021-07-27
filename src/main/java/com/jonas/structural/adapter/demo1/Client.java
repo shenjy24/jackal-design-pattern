@@ -1,6 +1,6 @@
-package com.jonas.structural.adapter;
+package com.jonas.structural.adapter.demo1;
 
-import com.jonas.structural.adapter.adapter.ScoreOperation;
+import com.jonas.structural.adapter.demo1.adapter.ScoreOperation;
 import com.jonas.util.XMLUtils;
 
 /**

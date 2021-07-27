@@ -1,4 +1,4 @@
-package com.jonas.structural.adapter.adaptee;
+package com.jonas.structural.adapter.demo1.adaptee;
 
 /**
  * 二分查找类：适配者

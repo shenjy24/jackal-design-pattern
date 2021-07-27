@@ -1,4 +1,4 @@
-package com.jonas.structural.adapter.adaptee;
+package com.jonas.structural.adapter.demo1.adaptee;
 
 /**
  * 快速排序类：适配者

@@ -1,4 +1,4 @@
-package com.jonas.structural.adapter.adapter;
+package com.jonas.structural.adapter.demo1.adapter;
 
 /**
  * ScoreOperation
