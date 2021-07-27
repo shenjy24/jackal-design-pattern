@@ -1,7 +1,7 @@
 package com.jonas.structural.adapter.demo2;
 
 /**
- * 方钉到圆孔的适配器
+ * 方钉到圆孔的类适配器
  */
 public class SquarePegAdapter extends RoundPeg {
 
